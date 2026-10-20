@@ -59,3 +59,4 @@ one comes from. Licence names are the Commons licence templates.
 | `search-console-fix.png` | Cyrus West Field | Napoleon Sarony | [CyrusField4.jpg](https://commons.wikimedia.org/wiki/File:CyrusField4.jpg) | PD-old-100 |
 | `sold-sync.png` | Václav Vladivoj Tomek | Jan Vilímek | [Václav Vladivoj Tomek - Jan Vilímek - České album (cropped).jpg](https://commons.wikimedia.org/wiki/File:V%C3%A1clav_Vladivoj_Tomek_%E2%80%93_Jan_Vil%C3%ADmek_%E2%80%93_%C4%8Cesk%C3%A9_album_(cropped).jpg) | PD-old-70 |
 | `webmaster.png` | František Křižík | Ignác Šechtl (1902) | [Krizik.jpg](https://commons.wikimedia.org/wiki/File:Krizik.jpg) | PD-old-100 |
+| `website-builder.png` | Josef Hlávka | Josef Mukařovský (before 1876) | [Josef Hlávka před 1876.jpg](https://commons.wikimedia.org/wiki/File:Josef_Hl%C3%A1vka_p%C5%99ed_1876.jpg) | PD-old-100 |
