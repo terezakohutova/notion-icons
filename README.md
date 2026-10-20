@@ -18,20 +18,25 @@ new agent needs a new PNG with its slug before its Notion card can show it.
 
 ## Where the images come from
 
-Every portrait is a historical photograph, engraving or lithograph from
-Wikimedia Commons. All of them are in the public domain: the authors died more
-than 70 years ago, or the work is anonymous and old enough. The one exception
-to "worldwide" is Ziegfeld, see the note in the table. None of the images are
-AI generated.
+Every portrait is a photograph, engraving or lithograph from Wikimedia
+Commons. All of them but one are in the public domain: the authors died more
+than 70 years ago, or the work is anonymous and old enough. The exception to
+"worldwide" is Ziegfeld, see the note in the table. The one portrait that is
+not public domain at all is `retro-designer.png` (Satoru Iwata, a 2011 photo
+under CC BY 2.0), see the note in the table. None of the images are AI
+generated.
 
 My changes (circle crop, sepia toning, frame) are released under
 [CC0 1.0 Universal](LICENSE): use the icons for anything, no attribution
 needed. CC0 covers only my edits; the underlying portraits were never mine to
-license and stay public domain.
+license and stay public domain. `retro-designer.png` is not covered by the
+CC0 licence: it stays under the licence of its original, CC BY 2.0, with the
+attribution given in the table.
 
 ## Credits
 
-Attribution is not legally required for any of these, but here is where each
+Attribution is not legally required for any of these except
+`retro-designer.png` (CC BY 2.0, attribution required), but here is where each
 one comes from. Licence names are the Commons licence templates.
 
 | Icon | Person | Author | Original on Wikimedia Commons | Licence |
@@ -60,3 +65,4 @@ one comes from. Licence names are the Commons licence templates.
 | `sold-sync.png` | Václav Vladivoj Tomek | Jan Vilímek | [Václav Vladivoj Tomek - Jan Vilímek - České album (cropped).jpg](https://commons.wikimedia.org/wiki/File:V%C3%A1clav_Vladivoj_Tomek_%E2%80%93_Jan_Vil%C3%ADmek_%E2%80%93_%C4%8Cesk%C3%A9_album_(cropped).jpg) | PD-old-70 |
 | `webmaster.png` | František Křižík | Ignác Šechtl (1902) | [Krizik.jpg](https://commons.wikimedia.org/wiki/File:Krizik.jpg) | PD-old-100 |
 | `website-builder.png` | Josef Hlávka | Josef Mukařovský (before 1876) | [Josef Hlávka před 1876.jpg](https://commons.wikimedia.org/wiki/File:Josef_Hl%C3%A1vka_p%C5%99ed_1876.jpg) | PD-old-100 |
+| `retro-designer.png` | Satoru Iwata | Official GDC (Game Developers Conference, 2011), via Flickr ([GDC 2011 3/2 (day 2)](https://www.flickr.com/photos/46982319@N06/5492709996)) | [Satoru Iwata GDC 2011 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Satoru_Iwata_GDC_2011_(cropped).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Not public domain and not covered by this repo's CC0: this file stays under CC BY 2.0. Changes: cropped to a circle, converted to sepia, frame added. |
