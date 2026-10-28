@@ -21,22 +21,25 @@ new agent needs a new PNG with its slug before its Notion card can show it.
 Every portrait is a photograph, engraving or lithograph from Wikimedia
 Commons. All of them but one are in the public domain: the authors died more
 than 70 years ago, or the work is anonymous and old enough. The exception to
-"worldwide" is Ziegfeld, see the note in the table. The one portrait that is
-not public domain at all is `retro-designer.png` (Satoru Iwata, a 2011 photo
-under CC BY 2.0), see the note in the table. None of the images are AI
+"worldwide" is Ziegfeld, see the note in the table. Two portraits are not
+public domain at all: `retro-designer.png` (Satoru Iwata, a 2011 photo under
+CC BY 2.0) and `rod-fotodetektiv.png` (Friedrich Simony, a 1898 photo under
+CC BY 2.0 AT from Universität Wien), see the notes in the table. None of the images are AI
 generated.
 
 My changes (circle crop, sepia toning, frame) are released under
 [CC0 1.0 Universal](LICENSE): use the icons for anything, no attribution
 needed. CC0 covers only my edits; the underlying portraits were never mine to
-license and stay public domain. `retro-designer.png` is not covered by the
-CC0 licence: it stays under the licence of its original, CC BY 2.0, with the
+license and stay public domain. `retro-designer.png` and
+`rod-fotodetektiv.png` are not covered by the CC0 licence: each stays under
+the licence of its original (CC BY 2.0 and CC BY 2.0 AT), with the
 attribution given in the table.
 
 ## Credits
 
 Attribution is not legally required for any of these except
-`retro-designer.png` (CC BY 2.0, attribution required), but here is where each
+`retro-designer.png` (CC BY 2.0) and `rod-fotodetektiv.png` (CC BY 2.0 AT),
+where it is required, but here is where each
 one comes from. Licence names are the Commons licence templates.
 
 | Icon | Person | Author | Original on Wikimedia Commons | Licence |
@@ -82,3 +85,5 @@ one comes from. Licence names are the Commons licence templates.
 | `rod-veci.png` | Vojtěch Náprstek | Jindřich Eckert | [Vojtěch náprstek.jpg](https://commons.wikimedia.org/wiki/File:Vojt%C4%9Bch_n%C3%A1prstek.jpg) | PD-old-100 |
 | `rod-dna.png` | Gregor Mendel | Unknown (1860s) | [Gregor Mendel with cross.jpg](https://commons.wikimedia.org/wiki/File:Gregor_Mendel_with_cross.jpg) | PD-US |
 | `rod-lide-kolem.png` | Čeněk Zíbrt | Unknown (c. 1932, Pestrý týden) | [Čeněk Zíbrt 1932.jpg](https://commons.wikimedia.org/wiki/File:%C4%8Cen%C4%9Bk_Z%C3%ADbrt_1932.jpg) | PD-anon-70-EU |
+| `rod-fotodetektiv.png` | Friedrich Simony | Unknown author (1898, frontispiece of Albrecht Penck's biography of Simony, Hölzel, Vienna), via [Universität Wien, Phaidra (o:103850)](https://hdl.handle.net/11353/10.103850) | [Friedrich Simony - Universität Wien, Phaidra (103850).jpg](https://commons.wikimedia.org/wiki/File:Friedrich_Simony_-_Universit%C3%A4t_Wien,_Phaidra_(103850).jpg) | [CC BY 2.0 AT](https://creativecommons.org/licenses/by/2.0/at/deed.en). Not public domain and not covered by this repo's CC0: this file stays under CC BY 2.0 AT. Changes: cropped to a circle, converted to sepia, frame added. |
+| `rod-perzekuce.png` | Gottlieb (Bohumil) Bondy | Jan Vilímek (1882, Světozor 16/40) | [Bohumil Karel Bondy 1882 Vilimek.png](https://commons.wikimedia.org/wiki/File:Bohumil_Karel_Bondy_1882_Vilimek.png) | PD-old-70-1923 |
