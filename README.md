@@ -75,3 +75,10 @@ one comes from. Licence names are the Commons licence templates.
 | `rod-uhry.png` | Iván Nagy | Unknown (before 1898) | [Nagy Iván arcképe.PNG](https://commons.wikimedia.org/wiki/File:Nagy_Iv%C3%A1n_arck%C3%A9pe.PNG) | PD-HU-unknown, PD-1996 |
 | `rod-auditor.png` | Josef Emler | Jan Vilím | [Josef Emler 01.jpg](https://commons.wikimedia.org/wiki/File:Josef_Emler_01.jpg) | PD-old-auto |
 | `rod-portrety.png` | Karel Klíč | Unknown (before 1918) | [Karel Václav Klíč (1841-1926).jpg](https://commons.wikimedia.org/wiki/File:Karel_V%C3%A1clav_Kl%C3%AD%C4%8D_(1841-1926).jpg) | PD-anon-70-EU |
+| `rod-mista.png` | Karel Kořistka | Jan Nepomuk Langhans (1881) | [KarelKoristkaFoto.jpg](https://commons.wikimedia.org/wiki/File:KarelKoristkaFoto.jpg) | PD-old |
+| `rod-tisk.png` | Václav Matěj Kramerius | Bust by Gustav Zoula, anonymous photograph (Světozor, 1899) | [Vaclav Matej Kramerius Zoula.png](https://commons.wikimedia.org/wiki/File:Vaclav_Matej_Kramerius_Zoula.png) | PD-old |
+| `rod-vojna.png` | Jan Jeník z Bratřic | Antonín Brechtold (1820) | [Jan Jeník z Bratřic.jpg](https://commons.wikimedia.org/wiki/File:Jan_Jen%C3%ADk_z_Brat%C5%99ic.jpg) | PD-Art (PD-old-70) |
+| `rod-fotky.png` | Jan Nepomuk Langhans | Jan Nepomuk Langhans (self-portrait; Commons file is a 2010 exhibition photograph of it) | [101214 Langhans Vystava Praha Jan Nepomuk Langhans osobně.JPG](https://commons.wikimedia.org/wiki/File:101214_Langhans_Vystava_Praha_Jan_Nepomuk_Langhans_osobn%C4%9B.JPG) | PD-old |
+| `rod-veci.png` | Vojtěch Náprstek | Jindřich Eckert | [Vojtěch náprstek.jpg](https://commons.wikimedia.org/wiki/File:Vojt%C4%9Bch_n%C3%A1prstek.jpg) | PD-old-100 |
+| `rod-dna.png` | Gregor Mendel | Unknown (1860s) | [Gregor Mendel with cross.jpg](https://commons.wikimedia.org/wiki/File:Gregor_Mendel_with_cross.jpg) | PD-US |
+| `rod-lide-kolem.png` | Čeněk Zíbrt | Unknown (c. 1932, Pestrý týden) | [Čeněk Zíbrt 1932.jpg](https://commons.wikimedia.org/wiki/File:%C4%8Cen%C4%9Bk_Z%C3%ADbrt_1932.jpg) | PD-anon-70-EU |
