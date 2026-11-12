@@ -118,3 +118,4 @@ one comes from. Licence names are the Commons licence templates.
 | `knc-pm.png` | Lillian Gilbreth | Unknown (1921) | [Lillian Moller Gilbreth, 1921.jpg](https://commons.wikimedia.org/wiki/File:Lillian_Moller_Gilbreth,_1921.jpg) | Public domain |
 | `knc-account.png` | Francis Wayland Ayer | Unknown | [Francis Wayland Ayer (1848–1923).png](https://commons.wikimedia.org/wiki/File:Francis_Wayland_Ayer_(1848–1923).png) | Public domain |
 | `knc-brand.png` | Earnest Elmo Calkins | Literary Digest (15 April 1905) | [Earnest Elmo Calkins1905.jpg](https://commons.wikimedia.org/wiki/File:Earnest_Elmo_Calkins1905.jpg) | Public domain |
+| `audit-director.png` | Arthur Andersen | Unknown, The National Cyclopaedia of American Biography vol. XVII (1920) | [Arthur Edward Andersen.png](https://commons.wikimedia.org/wiki/File:Arthur_Edward_Andersen.png) | Public domain |
