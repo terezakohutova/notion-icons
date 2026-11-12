@@ -106,3 +106,15 @@ one comes from. Licence names are the Commons licence templates.
 | `crisis-legal.png` | Antonín Randa | Unknown (c. 1912) | [AntoninRanda1912.JPG](https://commons.wikimedia.org/wiki/File:AntoninRanda1912.JPG) | Public domain |
 | `public-panel.png` | Antonín Boháč | Anonymous (before 1932) | [Antonín Boháč (1882-1950).jpg](https://commons.wikimedia.org/wiki/File:Anton%C3%ADn_Boh%C3%A1%C4%8D_%281882-1950%29.jpg) | Public domain |
 | `social-inbox.png` | Jiří Guth-Jarkovský | Unknown (1937) | [Jiří Stanislav Guth-Jarkovský 1937.jpg](https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Stanislav_Guth-Jarkovsk%C3%BD_1937.jpg) | Public domain |
+| `knc-director.png` | Marshall Field | Bain News Service (c. 1915) | [Marshall Field circa 1915 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Marshall_Field_circa_1915_(cropped).jpg) | Public domain |
+| `knc-offers.png` | Aaron Montgomery Ward | Engraved by Campbell, N. Y. | [A. Montgomery Ward.jpg](https://commons.wikimedia.org/wiki/File:A._Montgomery_Ward.jpg) | Public domain |
+| `knc-b2b.png` | Joel Owsley Cheek | Unknown (c. 1910) | [Joelowsley cheek portrait.jpg](https://commons.wikimedia.org/wiki/File:Joelowsley_cheek_portrait.jpg) | Public domain |
+| `knc-cx.png` | Fred Harvey | Unknown (before 1901) | [Fred Harvey.jpg](https://commons.wikimedia.org/wiki/File:Fred_Harvey.jpg) | Public domain |
+| `knc-marketplaces.png` | Richard Warren Sears | Unknown (1890-1910) | [Richard Warren Sears.jpg](https://commons.wikimedia.org/wiki/File:Richard_Warren_Sears.jpg) | Public domain |
+| `knc-pr.png` | Ivy Lee | Harris & Ewing (1905), LoC LCCN2016860103 | [LEE, IVY L. LCCN2016860103.jpg](https://commons.wikimedia.org/wiki/File:LEE,_IVY_L._LCCN2016860103.jpg) | Public domain |
+| `knc-creators.png` | Buffalo Bill Cody | Moffett, Chicago (1911) | [Cody-Buffalo-Bill-LOC.jpg](https://commons.wikimedia.org/wiki/File:Cody-Buffalo-Bill-LOC.jpg) | Public domain |
+| `knc-seo.png` | Noah Webster | James Herring (1833), National Portrait Gallery | [James Herring - Noah Webster - NPG.67.31 - National Portrait Gallery.jpg](https://commons.wikimedia.org/wiki/File:James_Herring_-_Noah_Webster_-_NPG.67.31_-_National_Portrait_Gallery.jpg) | Public domain |
+| `knc-social.png` | Lydia E. Pinkham | Unknown (1901-1904) | [Lydiapinkham-007.png](https://commons.wikimedia.org/wiki/File:Lydiapinkham-007.png) | Public domain |
+| `knc-pm.png` | Lillian Gilbreth | Unknown (1921) | [Lillian Moller Gilbreth, 1921.jpg](https://commons.wikimedia.org/wiki/File:Lillian_Moller_Gilbreth,_1921.jpg) | Public domain |
+| `knc-account.png` | Francis Wayland Ayer | Unknown | [Francis Wayland Ayer (1848–1923).png](https://commons.wikimedia.org/wiki/File:Francis_Wayland_Ayer_(1848–1923).png) | Public domain |
+| `knc-brand.png` | Earnest Elmo Calkins | Literary Digest (15 April 1905) | [Earnest Elmo Calkins1905.jpg](https://commons.wikimedia.org/wiki/File:Earnest_Elmo_Calkins1905.jpg) | Public domain |
